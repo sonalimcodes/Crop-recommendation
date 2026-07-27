@@ -4,6 +4,14 @@ A Machine Learning-based Crop Recommendation System that predicts the most suita
 
 ---
 
+## 🚀 Live Demo
+
+Try the Crop Recommendation System online:
+
+🔗 https://crop-recommendation-yzjum6cuiqxtwwspnquese.streamlit.app/
+
+---
+
 ## 📖 About
 
 The Crop Recommendation System uses Machine Learning algorithms to analyze soil and weather parameters and recommend the most suitable crop for cultivation.
