@@ -72,7 +72,7 @@ git clone https://github.com/sonalimcodes/Crop-recommendation.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd Crop-recommendation
+cd Crop-recommendation-main
 ```
 
 ### 3. Install the required packages
