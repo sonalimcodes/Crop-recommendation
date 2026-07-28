@@ -36,12 +36,14 @@ if not st.session_state.logged_in:
 
         if st.button("Create Account"):
 
-            if register_user(new_user, new_password):
-                st.success("Account created successfully!")
+            result = register_user(new_user, new_password)
+
+            if result is True:
+                st.success("✅ Account created successfully!")
                 st.info("Please login.")
 
             else:
-                st.error("Username already exists.")
+                st.error(result)
 
     elif choice == "Login":
 
