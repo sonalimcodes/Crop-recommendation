@@ -6,7 +6,7 @@ import joblib
 model = joblib.load("crop_model.pkl")
 scaler = joblib.load("scaler.pkl")
 
-st.title("🌱 Crop Recommendation System")
+st.title(" 🌱 Crop Recommendation System")
 
 st.write("Enter the soil and weather details below.")
 
