@@ -1,7 +1,6 @@
 # 🌱 Crop Recommendation System
 
 A Machine Learning-based Crop Recommendation System that predicts the most suitable crop to cultivate based on soil nutrients and environmental conditions. The system helps farmers and agricultural professionals make informed decisions to improve crop yield and productivity.
-
 ---
 
 ## 🚀 Live Demo
@@ -46,9 +45,7 @@ The project aims to support smart farming by providing accurate crop recommendat
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook
-
----
+- Jupyter Notebooks 
 
 ## 📂 Project Structure
 
