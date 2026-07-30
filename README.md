@@ -123,6 +123,19 @@ These features are used to predict the most suitable crop.
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](Screenshots/login_page.jpeg)
+
+### Account Creation Page
+![Account Creation Page](Screenshots/account_creation_page.jpeg)
+
+### Prediction Page
+![Prediction Page](Screenshots/prediction_page.jpeg)
+
+---
+
 ## 👥 Team Members
 
 - Sharanya T
